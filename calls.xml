@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice" language="en-IN">
+        Hello! This is a custom call made using Python and Twilio.
+        Your account is verified successfully.
+    </Say>
+</Response>
